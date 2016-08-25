@@ -3,6 +3,12 @@
 #include <string.h>
 #include <time.h>
 
+/*
+ * P1: Wheel of Fortune
+ * COSC 301, Operating Systems, Fall 2016
+ * Team: TODO
+ */
+
 // Constants for word list
 #define WORDS_FILE "/usr/share/dict/words"
 #define MAX_WORD_LENGTH 50
